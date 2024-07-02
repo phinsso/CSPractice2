@@ -10,6 +10,10 @@ namespace CSPractice2
     {
         static void Main(string[] args)
         {
+
+            // #6 23-7. 섀도잉
+            int number = 20;
+            Console.WriteLine(number); // 20
         }
     }
 }
